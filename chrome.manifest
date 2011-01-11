@@ -1,0 +1,4 @@
+content   resizeheader                 chrome/content/
+skin      resizeheader   classic/1.0   chrome/skin/
+locale    resizeheader   en-US         chrome/locale/en-US/
+overlay   chrome://messenger/content/messenger.xul chrome://resizeheader/content/msgHdrViewOverlay.xul

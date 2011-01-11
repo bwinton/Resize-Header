@@ -1,0 +1,8 @@
+<!ENTITY resizeheader.label "Your localized menuitem">
+<!ENTITY resizeheaderContext.label "Your Menuitem">
+<!ENTITY resizeheaderContext.accesskey "Y">
+<!ENTITY resizeheaderToolbarButton.label "Your Toolbar Button">
+<!ENTITY resizeheaderToolbarButton.tooltip "This is your toolbar button!">
+<!ENTITY resizeheaderSidebar.label "Your Sidebar">
+<!ENTITY resizeheaderToolbar.name  "example">
+<!ENTITY resizeheaderToolbar.label "This is an example toolbar. You can hide it under View &gt; toolbars &gt; &resizeheaderToolbar.name;">

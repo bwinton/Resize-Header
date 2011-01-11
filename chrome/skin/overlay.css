@@ -1,0 +1,22 @@
+/* This is just an example.  You shouldn't do this. */
+#resizeheader-hello
+{
+  color: red ! important;
+}
+#resizeheader-toolbar-button
+{
+  list-style-image: url("chrome://resizeheader/skin/toolbar-button.png");
+  -moz-image-region: rect(0px 24px 24px 0px);
+}
+#resizeheader-toolbar-button:hover
+{
+  -moz-image-region: rect(24px 24px 48px  0px);
+}
+[iconsize="small"] #resizeheader-toolbar-button
+{
+  -moz-image-region: rect( 0px 40px 16px 24px);
+}
+[iconsize="small"] #resizeheader-toolbar-button:hover
+{
+  -moz-image-region: rect(24px 40px 40px 24px);
+}
