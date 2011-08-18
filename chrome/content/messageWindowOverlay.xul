@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE overlay [
+]>
+
+<overlay xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+         xmlns:html="http://www.w3.org/1999/xhtml">
+
+<vbox id="messagepanebox">
+<!--  <hbox id="msgHeaderView"/ -->
+<splitter id="header-splitter"
+          insertafter="msgHeaderView"
+          collapsed="false"/>
+<!-- hbox id="editMessageBox"/ -->
+</vbox>
+</overlay>
+
